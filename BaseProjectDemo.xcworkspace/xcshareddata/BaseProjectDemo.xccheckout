@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4207EC0C-4BC9-4493-9A77-917371B9BA34</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BaseProjectDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F255C427EC784E48F0E1295221DA5E99762EEB24</key>
+		<string>https://github.com/fcihpy/BaseProjectDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BaseProjectDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F255C427EC784E48F0E1295221DA5E99762EEB24</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fcihpy/BaseProjectDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F255C427EC784E48F0E1295221DA5E99762EEB24</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F255C427EC784E48F0E1295221DA5E99762EEB24</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BaseProjectDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
